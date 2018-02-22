@@ -1,0 +1,8 @@
+{
+  "name": "vocabulary-builder",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
